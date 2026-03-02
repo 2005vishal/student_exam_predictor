@@ -1,4 +1,4 @@
-🎓 Student Exam Score Predictor
+## 🎓 Student Exam Score Predictor
 An advanced machine learning dashboard built with Streamlit and Scikit-learn to predict student exam scores based on study habits, attendance, and lifestyle factors.
 
 🚀 Live Demo
@@ -19,7 +19,7 @@ High Performance: Optimized with Streamlit's @st.cache_resource for instant load
 📸 Screenshot
 Here is a preview of the live prediction in action:
 
-![Live Prediction Screenshot](screenshot.png)
+![Live Prediction Screenshot](Screenshot.png)
 
 🛠️ Installation & Setup
 To run this project locally on your machine (PyCharm/VS Code):
