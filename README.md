@@ -19,7 +19,7 @@ High Performance: Optimized with Streamlit's @st.cache_resource for instant load
 📸 Screenshot
 Here is a preview of the live prediction in action:
 
-![Live Prediction Screenshot](screenshot.png)
+![Live Prediction Screenshot](screensort.png)
 
 🛠️ Installation & Setup
 To run this project locally on your machine (PyCharm/VS Code):
